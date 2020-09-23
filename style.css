@@ -17,7 +17,7 @@ footer {
   background-color: green;
 }
 div.columns {
-  font-size: 30px;
+  font-size: 28px;
   text-align: center;
   float: left;
 }
@@ -61,7 +61,7 @@ h4 {
   text-align: center;
   font-weight: 300;
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: 22px;
 }
 h5 {
   text-align: center;
@@ -97,7 +97,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #6999c9;
 }
 
 li {
@@ -106,14 +106,15 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #edf0ee;
 }
   * {
   box-sizing: border-box;
